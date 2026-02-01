@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Spring2026-Project1-sostamps/1.0.0": {
+        "runtime": {
+          "Spring2026-Project1-sostamps.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Spring2026-Project1-sostamps/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
